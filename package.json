@@ -4,7 +4,8 @@
 	"description": "typescript-typed Boolean()",
 	"main": "index.js",
 	"files": [
-		"index.d.ts"
+		"index.d.ts",
+		"index.mjs"
 	],
 	"exports": {
 		".": {
