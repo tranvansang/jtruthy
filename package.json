@@ -1,6 +1,6 @@
 {
 	"name": "jtruthy",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "typescript-typed Boolean()",
 	"main": "index.js",
 	"files": [
