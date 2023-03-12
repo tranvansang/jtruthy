@@ -1,0 +1,19 @@
+{
+	"name": "jtruthy",
+	"version": "0.0.1",
+	"description": "typescript-typed Boolean()",
+	"main": "index.js",
+	"files": [
+		"index.d.ts"
+	],
+	"exports": {
+		".": {
+			"import": "index.mjs",
+			"require": "index.js"
+		}
+	},
+	"repository": "git@github.com:tranvansang/jtruthy.git",
+	"author": "Tran Sang <me@transa.ng>",
+	"license": "MIT",
+	"private": false
+}
