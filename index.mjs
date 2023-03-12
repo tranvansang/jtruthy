@@ -1,1 +1,2 @@
-export default Boolean
+const truthy = Boolean
+export default truthy
