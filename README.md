@@ -14,6 +14,6 @@ yarn add jtruthy
 import truthy from 'jtruthy'
 
 const arr = [1, 2, false && 3] as const
-const a = arr.filter(jtruthy) // type: (1 | 2)[]
+const a = arr.filter(truthy) // type: (1 | 2)[]
 const b = arr.filter(Boolean) // type: (false | 1 | 2)[]
 ```
