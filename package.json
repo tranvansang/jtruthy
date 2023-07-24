@@ -1,12 +1,13 @@
 {
 	"name": "jtruthy",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"description": "typescript-typed Boolean()",
 	"main": "index.js",
 	"files": [
 		"index.js",
 		"index.d.ts",
-		"index.mjs"
+		"index.mjs",
+		"index.d.mts"
 	],
 	"exports": {
 		".": {

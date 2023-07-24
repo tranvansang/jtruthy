@@ -1,4 +1,4 @@
 'use strict'
-Object.defineProperty(exports, '__esModule', {value: true})
 const truthy = Boolean
+module.exports = truthy
 exports.default = truthy
