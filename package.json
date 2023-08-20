@@ -6,16 +6,16 @@
 	"files": [
 		"index.js",
 		"index.d.ts",
-		"index.mjs",
-		"index.d.mts"
+		"index.mjs"
 	],
 	"exports": {
 		".": {
+			"types": "./index.d.ts",
 			"import": "./index.mjs",
 			"require": "./index.js"
 		}
 	},
-	"repository": "git@github.com:tranvansang/jtruthy.git",
+	"repository": "https://github.com/tranvansang/jtruthy",
 	"author": "Sang Tran <t@sang.jp>",
 	"license": "MIT",
 	"private": false
